@@ -16,4 +16,12 @@
 
 ![W B Chart 07_07_2024, 17_28_01](https://github.com/FabioCognata/SemanticSegmentation/assets/93078559/54595f64-2dfb-43a5-98a1-fcb948d3b4a8)
 
+## Training performances with data trasformation (patch extraction, random rotation(0,180°) and elastic deformation)
+
+![W B Chart 08_07_2024, 17_13_43](https://github.com/FabioCognata/SemanticSegmentation/assets/93078559/0b00ca61-ccb2-4b10-8fe9-3ab05b8fa51c)
+
+![W B Chart 08_07_2024, 17_12_40](https://github.com/FabioCognata/SemanticSegmentation/assets/93078559/0e7f6a7c-6a77-4853-ac0e-d7e85fa585c4)
+
+![W B Chart 08_07_2024, 17_13_24](https://github.com/FabioCognata/SemanticSegmentation/assets/93078559/a89b9962-86c6-425a-a7af-5dab2ea961c9)
+
 
