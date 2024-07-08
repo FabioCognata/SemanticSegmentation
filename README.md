@@ -8,7 +8,7 @@
 
 ![W B Chart 07_07_2024, 16_30_20](https://github.com/FabioCognata/SemanticSegmentation/assets/93078559/dacfcfa7-bbc1-45cb-9d04-098bc071b91f)
 
-## Training performances with data trasformation (patch extraction, random rotation(0,180°) and elastic deformation)
+## Training performances with data trasformation (patch extraction, random rotation(0,180°) )
 
 ![W B Chart 07_07_2024, 17_28_11](https://github.com/FabioCognata/SemanticSegmentation/assets/93078559/82557ce5-91af-4e2d-8115-10c0b68afef9)
 
